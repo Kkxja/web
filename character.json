@@ -1,0 +1,42 @@
+{
+    "character_name": "Phari",
+    "class": "Cleric",
+    "level": 76,
+    "stats": {
+    "mana" : 17920,
+    "strength": 21,
+    "dexterity": 33,
+    "intelligence": 87
+  },
+  "inventory": [
+    {
+      "item_id": "00029B93",
+      "name": "Staff of Celestial Order",
+      "type": "Weapon",
+      "is_equipped": true,
+      "durability": 98
+    },
+    {
+      "item_id": "0003EAE1",
+      "name": "Mana Potion",
+      "type": "Potion",
+      "is_equipped": false,
+      "durability": null  
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Lumen’s Grace",
+      "mana_cost": 35,
+      "cooldown": 6,
+      "description": "Envelops an ally in radiance, instantly restoring part of their health and applying a brief healing-over-time effect."
+    },
+    {
+      "skill_name": "Chains of Light",
+      "mana_cost": 250,
+      "cooldown": 60,
+      "description": "Immobilizes the target with radiant chains, rooting them for 16 seconds."
+    }
+  ]
+
+}
