@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": { "start": "node index.js" },
+  "scripts": {
+    "start": "node index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Kkxja/web.git"
@@ -15,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Kkxja/web/issues"
   },
-  "homepage": "https://github.com/Kkxja/web#readme"
+  "homepage": "https://github.com/Kkxja/web#readme",
+  "dependencies": {
+    "commander": "^15.0.0"
+  }
 }
